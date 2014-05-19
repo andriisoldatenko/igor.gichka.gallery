@@ -1,4 +1,4 @@
-igor.gichka.gallery
-===================
-
 Igor Gichka Photography
+===================
+*Personal Web Site
+
